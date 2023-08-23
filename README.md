@@ -1,3 +1,14 @@
+
+git clone https://github.com/allforminers/yiimp24.git yiimp_install_script-master
+
+cd yiimp_install_script-master
+
+bash install.sh
+
+
+agJXXZAww3czAA
+
+
 cd /home/crypto-data/yiimp/site/stratum
 
 screen bash run.sh sha

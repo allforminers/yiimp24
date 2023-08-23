@@ -4,6 +4,10 @@ screen bash run.sh sha
 
 nicehash = 750000
 
+PANELADMIN
+
+/home/crypto-data/yiimp/site/web/yaamp/modules/site SiteController.php
+
 ```
 curl https://raw.githubusercontent.com/afiniel/yiimp_install_script/master/install.sh | bash
 
